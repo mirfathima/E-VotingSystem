@@ -1,10 +1,8 @@
 # E-VotingSystem
 
-# E-Voting System
-
 The E-Voting System is a web-based application designed to facilitate secure and streamlined electronic voting. It provides a platform for managing elections, registering voters, and securely recording and tabulating ballots, replacing traditional paper-based voting methods.
 
-## ✨ Features
+##  Features
 
 The file structure suggests a comprehensive system with both voter and administrative functions:
 
@@ -15,7 +13,7 @@ The file structure suggests a comprehensive system with both voter and administr
 * **Vote Preview:** A step for the voter to review their choices before final submission (`preview.php`).
 * **Database Management:** Dedicated directory for database files (`database` folder), likely containing SQL scripts for setup.
 
-## 💻 Technology Stack
+##  Technology Stack
 
 The project is primarily built using server-side scripting, common for full-stack web applications:
 
@@ -54,7 +52,7 @@ To run this project locally, you will need a local server environment (like XAMP
 5.  **Access the Application:**
     * Open your web browser and navigate to the project's root URL (e.g., `http://localhost/E-VotingSystem/index.php`).
 
-## 📁 Repository Structure
+##  Repository Structure
 
 | Folder/File | Description |
 | :--- | :--- |
